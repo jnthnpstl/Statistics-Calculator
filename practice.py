@@ -98,7 +98,7 @@ class Probability(ttk.Frame):
         return self.frame_content
 
 
-
+print('baka earnest and jonathan yan')
 
 if __name__ == "__main__":
     App()
