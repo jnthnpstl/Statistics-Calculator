@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T02:12:46.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2EF4mYNZRbmo8x2hxp0q" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-09T02:19:04.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4BS3Km8Us5dRlmyWYdCD" version="22.1.7" type="github">
   <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
-    <mxGraphModel dx="2414" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1819" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,9 +31,9 @@
             <mxPoint x="306.03833333333324" y="281.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1" source="114">
+        <mxCell id="16" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="46.458333333333236" y="190" as="sourcePoint" />
+            <mxPoint x="10" y="190" as="sourcePoint" />
             <mxPoint x="106.45833333333323" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -49,11 +49,11 @@
             <mxPoint x="50" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="114" value="Faculty not &#xa;following/adjusting &#xa;scheduled classes" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
-          <mxGeometry x="-51.94" y="180" width="66.46" height="20" as="geometry" />
+        <mxCell id="114" value="Faculty not &#xa;following/adjusting &#xa;scheduled classes" style="text;spacingTop=-5;fontSize=10;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
+          <mxGeometry x="-66" y="180" width="66.46" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="129" value="Need to discuss&#xa; more daily lessons&#xa; because of leaves or&#xa; long holidays." style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];direction=west;rotation=315;" parent="1" vertex="1">
-          <mxGeometry x="-10.003888888888998" y="226.5288888888888" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="129" value="Need to discuss&#xa; more daily lessons&#xa; because of leaves or&#xa; long holidays." style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];direction=west;rotation=315;" parent="1" vertex="1">
+          <mxGeometry x="-15.483888888888998" y="229.99888888888879" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="143" value="Manpower" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="260" y="109.99999999999994" width="120" height="60" as="geometry" />
@@ -79,7 +79,7 @@
             <mxPoint x="330" y="189.99999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="176" value="No concensus&#xa; between faculties" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
+        <mxCell id="176" value="No concensus&#xa; between faculties" style="text;spacingTop=-5;fontSize=10;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
           <mxGeometry x="210.00000000000006" y="179.99999999999997" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="204" value="Machine" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
@@ -109,17 +109,17 @@
             <mxPoint x="505.8333333333331" y="191.52777777777752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="237" value="Not functioning appliances&#xa; such as wall fans and&#xa;light bulbs" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
+        <mxCell id="237" value="Not functioning appliances&#xa; such as wall fans and&#xa;light bulbs" style="text;spacingTop=-5;fontSize=10;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
           <mxGeometry x="417.6333333333331" y="181.52777777777757" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="243" value="No electricity&#xa;in the room" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];rotation=314;" parent="1" vertex="1">
+        <mxCell id="243" value="No electricity&#xa;in the room" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];rotation=314;" parent="1" vertex="1">
           <mxGeometry x="459.5833333333332" y="213.88777777777747" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="244" value="Unsafe or&#xa;inoperable switches" style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];rotation=314;" parent="1" vertex="1">
+        <mxCell id="244" value="Unsafe or&#xa;inoperable switches" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];rotation=314;" parent="1" vertex="1">
           <mxGeometry x="489.5833333333331" y="219.9977777777775" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="FlY8QXYysamf4oGjOvzW-267" value="To conduct classes&#xa;or labs earlier than&#xa; the scheduled time." style="text;spacingTop=-5;fontSize=6;align=center;verticalAlign=middle;points=[];direction=west;rotation=315;" vertex="1" parent="1">
-          <mxGeometry x="49.996111111111" y="226.52888888888876" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="FlY8QXYysamf4oGjOvzW-267" value="To conduct classes&#xa;or labs earlier than&#xa; the scheduled time." style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[];direction=west;rotation=315;" vertex="1" parent="1">
+          <mxGeometry x="39.996111111111" y="229.99888888888876" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
         <mxCell id="FlY8QXYysamf4oGjOvzW-274" value="" style="edgeStyle=none;endArrow=none;strokeWidth=2" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -127,8 +127,8 @@
             <mxPoint x="186.04" y="226.52999999999992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FlY8QXYysamf4oGjOvzW-275" value="Conflicting&#xa;Schedules" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" vertex="1" parent="1">
-          <mxGeometry x="190.00000000000006" y="219.99999999999997" width="30" height="19.999999999999886" as="geometry" />
+        <mxCell id="FlY8QXYysamf4oGjOvzW-275" value="Conflicting&#xa;Schedules" style="text;spacingTop=-5;fontSize=10;align=center;verticalAlign=middle;points=[]" vertex="1" parent="1">
+          <mxGeometry x="200.00000000000006" y="219.99999999999997" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
